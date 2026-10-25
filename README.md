@@ -1,6 +1,6 @@
 # UK Online Retail Dataset PowerBI Dashboard
 
-An interactive PowerBI dashboard on the UK Online Retail dataset, analyzing over 500K invoices from a UK retailer. The original dataset was cleaned, split into a facts and dimensions schema and used to track financial performance, refund scale and regional distribution of the store orders.
+An interactive PowerBI dashboard on the UK Online Retail dataset, analyzing over 500K transactions from a UK retailer. The original dataset was cleaned, split into a facts and dimensions schema and used to track financial performance, refund scale and regional distribution of the store orders.
 
 ![Dashboard View](images/dashboard_view.png)
 
